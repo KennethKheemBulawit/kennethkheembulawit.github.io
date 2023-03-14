@@ -1,0 +1,108 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    text-align: center;
+    background-color: blue;
+    padding: 20px;
+}
+
+nav {
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+}
+
+main {
+    text-align: center;
+    background-color: yellow;
+    height: 550px;
+    margin-bottom: 20px;
+}
+
+.pink-background {
+    background-color: pink;
+    width: 70%;
+}
+
+.article-one {
+    padding: 20px;
+    background-color: green;
+    float: left;
+    width: "70%";
+    height: 360px;
+    text-align: left;
+    margin-bottom: 50px;
+    font-size: small;
+}
+
+aside {
+    width: 30%;
+    float: right;
+    background-color: red;
+    height: 400px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.below {
+    margin-top: 10px;
+    padding-top: 50px;
+    height: 450px;
+}
+
+.low {
+    border: 50px;
+    background-color: gray;
+    height: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+}
+
+.two {
+    background-color: green;
+    text-align: left;
+    margin-top: 20px;
+    margin: 20px;
+    text-indent: 50px;
+    padding: 20px;
+}
+
+ .pic1 {
+    margin-top: 10px;
+    float: left;
+    margin-right: 10px;
+ }
+
+ .three {
+    background-color: green;
+    text-align: left;
+    margin-top: 20px;
+    margin: 20px;
+    text-indent: 50px;
+    padding: 20px;
+ }
+
+ .pic2 {
+    margin-top: 10px;
+    float: right;
+    margin-left: 10px;
+ }
+
+ .white {
+
+    background-color: white;
+    text-align: center;
+    height: 100px;
+ }
+
+ footer {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    height: 100px;
+    vertical-align: middle;
+ }
